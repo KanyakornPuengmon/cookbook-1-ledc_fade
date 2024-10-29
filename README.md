@@ -62,3 +62,6 @@ https://drive.google.com/file/d/1txO2RQeSJWQMXq-W__M3T4LyzFJNtie8/view?usp=drive
 
 ![สกรีนช็อต 2024-10-29 211947](https://github.com/user-attachments/assets/a4c7c528-e8af-4f8f-ba91-356b06e6d5e8)
 
+## สรุปผลการทดลอง
+- การทำงานของ LEDC Fade Example ใน ESP32 แสดงให้เห็นถึงการควบคุมความสว่างของ LED โดยใช้เทคนิคการทำให้ ค่อย ๆ เปลี่ยนแสงสว่างโดยการปรับค่าความสว่างขึ้นหรือลงผ่านการเปลี่ยนแปลงค่าความกว้างของสัญญาณ PWM (Pulse Width Modulation) ซึ่ง LEDC (LED Control) ของ ESP32 
+
