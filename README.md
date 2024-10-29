@@ -19,7 +19,7 @@
 
 5. คลิกเลือก Create project using example ledc_fade
 
-6. เมื่อสร้างแล้วจะไก้ไฟล์ทั้งหมดดังนี้
+6. เมื่อสร้างแล้วจะได้ไฟล์ทั้งหมดดังนี้
 
 ![สกรีนช็อต 2024-10-29 211927](https://github.com/user-attachments/assets/77e50b5a-2af0-4b55-993e-b35e035986e2)
 
